@@ -9,11 +9,11 @@ html{
     width: 100%;
 }
 .nav{
-    background-color: grey;
+    background-color: rgba(0,0,0,0.3);
     height: 30px;
     width: 60%;
     padding: 1rem 2rem;
-    background-color: #2e2e2e;
+    /* background-color: #2e2e2e; */
     display: flex;
     justify-content: space-between;
     border-radius: 5rem;
